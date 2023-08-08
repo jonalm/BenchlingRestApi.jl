@@ -1,0 +1,4 @@
+name = "BenchlingRestApi"
+uuid = "60baf2f7-9589-481b-88a0-3870234381c8"
+authors = ["jonalmeriksen "]
+version = "0.1.0"
